@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gryzard
 - 👀 I’m interested in handicrafts, handwork, tech and programming
-- 🌱 I’m currently learning upholstering furniture and programming with Python
+- 🌱 I’m currently learning weaving, upholstering furniture and programming (HTML, CSS, JavaScvript and Python)
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ... I'm on Discord
 - 😄 Pronouns: She
